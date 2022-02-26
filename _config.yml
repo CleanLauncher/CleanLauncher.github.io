@@ -1,1 +1,8 @@
-theme: jekyll-theme-cayman
+theme: jekyll-theme-architect
+title: Clean Launcher
+external_link:
+  enable: false
+  field: site
+favicon:
+  small: favicon.ico
+  medium: favicon.ico
