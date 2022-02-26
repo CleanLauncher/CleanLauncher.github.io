@@ -5,3 +5,5 @@ external_link:
 favicon:
   small: favicon.ico
   medium: favicon.ico
+
+theme: jekyll-theme-cayman
